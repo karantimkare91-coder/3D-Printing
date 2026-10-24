@@ -1,0 +1,7 @@
+{
+  "name": "PrintRx - Personalized 3D Medicine Manufacturing",
+  "description": "Precision pharmacotherapy platform for calculating patient-specific drug dosages based on biometrics, medical history, and genetics, with direct CAD slicing and pharmaceutical 3D printing simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
